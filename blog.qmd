@@ -1,0 +1,49 @@
+---
+title: ""
+---
+
+```{=html}
+<div class="about-layout">
+
+<div class="about-sidebar">
+  <img class="avatar" src="assets/me.jpeg" onerror="this.style.display='none'" alt="Michael Lindon">
+  <h2>Michael Lindon</h2>
+  <p class="role">Staff Research Scientist<br>Netflix</p>
+  <div class="social-links">
+    <a href="https://scholar.google.com/citations?user=-dW0PugAAAAJ">Google Scholar</a>
+    <a href="https://github.com/michaellindon">GitHub</a>
+    <a href="https://linkedin.com/in/michaelslindon">LinkedIn</a>
+  </div>
+</div>
+
+<div class="about-main">
+  <h2>Blog Posts</h2>
+
+  <div class="pub-entry">
+    <div class="pub-year">2024</div>
+    <div class="pub-body">
+      <div class="pub-title"><a href="https://netflixtechblog.com/sequential-testing-keeps-the-world-streaming-netflix-part-2-counting-processes-da6805341642">Sequential Testing Keeps the World Streaming, Netflix Part 2: Counting Processes</a></div>
+      <div class="pub-meta">Netflix Technology Blog · Mar 18, 2024</div>
+    </div>
+  </div>
+
+  <div class="pub-entry">
+    <div class="pub-year">2024</div>
+    <div class="pub-body">
+      <div class="pub-title"><a href="https://netflixtechblog.com/sequential-a-b-testing-keeps-the-world-streaming-netflix-part-1-continuous-data-cba6c7ed49df">Sequential A/B Testing Keeps the World Streaming, Netflix Part 1: Continuous Data</a></div>
+      <div class="pub-meta">Netflix Technology Blog · Feb 12, 2024</div>
+    </div>
+  </div>
+
+  <div class="pub-entry">
+    <div class="pub-year">2020</div>
+    <div class="pub-body">
+      <div class="pub-title"><a href="https://medium.com/@michael.s.lindon/a-better-way-to-test-for-sample-ratio-mismatches-srms-and-validate-experiment-implementations-6da7c0d64552">A Better Way to Test for Sample Ratio Mismatches (SRMs) and Validate Experiment Implementations</a></div>
+      <div class="pub-meta">Medium · Nov 12, 2020</div>
+    </div>
+  </div>
+
+</div>
+
+</div>
+```

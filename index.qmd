@@ -1,0 +1,191 @@
+---
+title: ""
+---
+
+```{=html}
+<div class="about-layout">
+
+<div class="about-sidebar">
+  <img class="avatar" src="assets/me.jpeg" onerror="this.style.display='none'" alt="Michael Lindon">
+  <h2>Michael Lindon</h2>
+  <p class="role">Staff Research Scientist<br>Netflix</p>
+  <div class="social-links">
+    <a href="https://scholar.google.com/citations?user=-dW0PugAAAAJ">Google Scholar</a>
+    <a href="https://github.com/michaellindon">GitHub</a>
+    <a href="https://linkedin.com/in/michaelslindon">LinkedIn</a>
+  </div>
+</div>
+
+<div class="about-main">
+  <h2>About</h2>
+  <p>I am a Staff Research Scientist at Netflix and co-creator of Netflix's real-time A/B testing platform, which unifies large-scale stream processing with sequential hypothesis testing to safeguard thousands of production releases monthly. My research focuses on anytime-valid inference, sequential testing, Bayesian analysis and causal inference.</p>
+
+  <h2>Activities</h2>
+
+  <div class="pub-entry">
+    <div class="act-date">Nov 2026</div>
+    <div class="pub-body">
+      <div class="pub-title"><a href="https://meetings.informs.org/wordpress/annual/">INFORMS Annual Meeting 2026</a></div>
+      <div class="pub-meta">Moscone Center, San Francisco, CA · Nov 1–4</div>
+      <div class="pub-meta">Invited talk in session: <em>Sequential Inference and Adaptive Decision Making with E-Values</em></div>
+    </div>
+  </div>
+
+  <div class="pub-entry">
+    <div class="act-date">Aug 2026</div>
+    <div class="pub-body">
+      <div class="pub-title"><a href="https://ww2.amstat.org/meetings/jsm/2026/">Joint Statistical Meetings (JSM) 2026</a></div>
+      <div class="pub-meta">Boston, MA · Aug 1–6</div>
+      <div class="pub-meta">Invited talk in session: <em>Extending Inference from Fixed Samples to Anytime-Valid Guarantees</em></div>
+    </div>
+  </div>
+
+  <div class="pub-entry">
+    <div class="act-date">Jul 2026</div>
+    <div class="pub-body">
+      <div class="pub-title"><a href="https://connect.informs.org/rmp/conferences/rmp-conferences">INFORMS Revenue Management &amp; Pricing Conference</a></div>
+      <div class="pub-meta">Ross School of Business, University of Michigan · Jul 21–23</div>
+      <div class="pub-meta">Keynote: <em>Building Netflix's Real-Time Experimentation Platform with Anytime-Valid Inference</em></div>
+    </div>
+  </div>
+
+  <div class="pub-entry">
+    <div class="act-date">Jul 2026</div>
+    <div class="pub-body">
+      <div class="pub-title"><a href="https://icml.cc/">ICML 2026</a></div>
+      <div class="pub-meta">COEX Convention Center, Seoul, South Korea · Jul 6–11</div>
+      <div class="pub-meta">Paper: <a href="https://arxiv.org/abs/2603.25971"><em>Anytime-Valid Inference Under Outcome Delay: A Design-Based Approach</em></a></div>
+    </div>
+  </div>
+
+  <div class="pub-entry">
+    <div class="act-date">Jun–Jul 2026</div>
+    <div class="pub-body">
+      <div class="pub-title"><a href="https://savi-conference.github.io/2026/">SAVI 2026</a></div>
+      <div class="pub-meta">University of Twente, Enschede, Netherlands · Jun 29–Jul 3</div>
+      <div class="pub-meta">Talk: <em>Anytime-Valid Inference Under Outcome Delay: A Design-Based Approach</em></div>
+    </div>
+  </div>
+
+  <div class="pub-entry">
+    <div class="act-date">May 2026</div>
+    <div class="pub-body">
+      <div class="pub-title"><a href="https://events.business.columbia.edu/event/drodeming-workshop-experimentation-decision-making">Inaugural Workshop on Experimentation for Decision-Making</a></div>
+      <div class="pub-meta">Columbia Business School, New York, NY</div>
+      <div class="pub-meta"><a href="assets/poster_icml2026.pdf">Poster</a></div>
+    </div>
+  </div>
+
+  <div class="pub-entry">
+    <div class="act-date">2026</div>
+    <div class="pub-body">
+      <div class="pub-title">ERCIM News</div>
+      <div class="pub-meta">Special Issue: <em>E-Values: Statistical Testing for the 21st Century</em></div>
+      <div class="pub-meta">Article: Title TBD <span class="tag tag-mag">Magazine</span></div>
+    </div>
+  </div>
+
+  <div class="pub-entry">
+    <div class="act-date">May 2025</div>
+    <div class="pub-body">
+      <div class="pub-title"><a href="https://aistats.org/aistats2025/">AISTATS 2025</a></div>
+      <div class="pub-meta">Splash Beach Resort, Mai Khao, Thailand · May 3–5</div>
+      <div class="pub-meta">Paper: <a href="https://proceedings.mlr.press/v258/lindon25a.html"><em>Anytime-Valid A/B Testing of Counting Processes</em></a></div>
+    </div>
+  </div>
+
+  <div class="pub-entry">
+    <div class="act-date">Oct 2024</div>
+    <div class="pub-body">
+      <div class="pub-title"><a href="https://ide.mit.edu/events/code24/">Conference on Digital Experimentation @ MIT (CODE@MIT) 2024</a></div>
+      <div class="pub-meta">MIT, Cambridge, MA · Oct 17–18</div>
+      <div class="pub-meta">Poster: <em>Anytime-Valid Continuous-Time Inference for Inhomogeneous Poisson Point Processes</em></div>
+    </div>
+  </div>
+
+  <div class="pub-entry">
+    <div class="act-date">May 2024</div>
+    <div class="pub-body">
+      <div class="pub-title"><a href="https://www.stat.cmu.edu/~aramdas/OW/ow24.html">SAVI 2024</a></div>
+      <div class="pub-meta">Mathematisches Forschungsinstitut Oberwolfach, Germany · May 5–10</div>
+      <div class="pub-meta">Talk: <em>Anytime-Valid Linear Models and Regression Adjusted Causal Inference in Randomized Experiments</em></div>
+    </div>
+  </div>
+
+  <div class="pub-entry">
+    <div class="act-date">Dec 2023</div>
+    <div class="pub-body">
+      <div class="pub-title"><a href="https://www.cmstatistics.org/CMStatistics2023/">CFE-CMStatistics 2023</a></div>
+      <div class="pub-meta">HTW Berlin, Germany · Dec 16–18</div>
+      <div class="pub-meta">Talk: <em>Anytime-valid linear models and regression adjusted causal inference in randomized experiments</em></div>
+    </div>
+  </div>
+
+  <div class="pub-entry">
+    <div class="act-date">Jul 2023</div>
+    <div class="pub-body">
+      <div class="pub-title"><a href="https://www.ime.usp.br/~16clapem/">XVI CLAPEM</a></div>
+      <div class="pub-meta">IME-USP, São Paulo, Brazil · Jul 10–14</div>
+      <div class="pub-meta">Session IS10: <em>Modern Martingale Methods in Machine Learning and Statistics</em></div>
+      <div class="pub-meta">Talk: <em>Applications of Martingale Statistical Methods at Netflix</em></div>
+    </div>
+  </div>
+
+  <div class="pub-entry">
+    <div class="act-date">Nov–Dec 2022</div>
+    <div class="pub-body">
+      <div class="pub-title"><a href="https://neurips.cc/Conferences/2022">NeurIPS 2022</a></div>
+      <div class="pub-meta">New Orleans Ernest N. Morial Convention Center, New Orleans, LA · Nov 28–Dec 9</div>
+      <div class="pub-meta">Paper: <a href="https://arxiv.org/abs/2011.03567"><em>Anytime-Valid Inference for Multinomial Count Data</em></a></div>
+    </div>
+  </div>
+
+  <div class="pub-entry">
+    <div class="act-date">Oct 2022</div>
+    <div class="pub-body">
+      <div class="pub-title"><a href="https://ide.mit.edu/events/2022-conference-on-digital-experimentation-mit-codemit/">Conference on Digital Experimentation @ MIT (CODE@MIT) 2022</a></div>
+      <div class="pub-meta">MIT, Cambridge, MA · Oct 20–21</div>
+      <div class="pub-meta">Talk: <em>Accelerating Sequential Testing with Covariates</em></div>
+    </div>
+  </div>
+
+  <div class="pub-entry">
+    <div class="act-date">Aug 2022</div>
+    <div class="pub-body">
+      <div class="pub-title"><a href="https://kdd.org/kdd2022/">KDD 2022</a></div>
+      <div class="pub-meta">Walter E. Washington Convention Center, Washington, DC · Aug 14–18</div>
+      <div class="pub-meta">Paper: <a href="https://arxiv.org/abs/2205.14762"><em>Rapid Regression Detection in Software Deployments through Sequential Testing</em></a></div>
+    </div>
+  </div>
+
+  <div class="pub-entry">
+    <div class="act-date">May–Jun 2022</div>
+    <div class="pub-body">
+      <div class="pub-title"><a href="https://www.stat.cmu.edu/~aramdas/SAVI/savi20.html">SAVI 2022</a></div>
+      <div class="pub-meta">EURANDOM, Eindhoven, Netherlands · May 30–Jun 3</div>
+      <div class="pub-meta">Talk: <em>Applications of Always-Valid Inference at Netflix</em></div>
+    </div>
+  </div>
+
+  <div class="pub-entry">
+    <div class="act-date">Dec 2021</div>
+    <div class="pub-body">
+      <div class="pub-title">Etsy House of Brands Experimentation</div>
+      <div class="pub-meta">Virtual · Dec 7–8</div>
+      <div class="pub-meta">Talk: <em>Bringing Experimentation to DevOps: Sequential Testing for Fast Detection of Bugs and Performance Regressions</em></div>
+    </div>
+  </div>
+
+  <div class="pub-entry">
+    <div class="act-date">Dec 2019</div>
+    <div class="pub-body">
+      <div class="pub-title"><a href="https://www.cmstatistics.org/CMStatistics2019/">CFE-CMStatistics 2019</a></div>
+      <div class="pub-meta">Senate House, University of London · Dec 14–16</div>
+      <div class="pub-meta">Talk: <em>The state of industry statistics in online AB experiments</em></div>
+    </div>
+  </div>
+
+</div>
+
+</div>
+```

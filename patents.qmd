@@ -1,0 +1,43 @@
+---
+title: ""
+---
+
+```{=html}
+<div class="about-layout">
+
+<div class="about-sidebar">
+  <img class="avatar" src="assets/me.jpeg" onerror="this.style.display='none'" alt="Michael Lindon">
+  <h2>Michael Lindon</h2>
+  <p class="role">Staff Research Scientist<br>Netflix</p>
+  <div class="social-links">
+    <a href="https://scholar.google.com/citations?user=-dW0PugAAAAJ">Google Scholar</a>
+    <a href="https://github.com/michaellindon">GitHub</a>
+    <a href="https://linkedin.com/in/michaelslindon">LinkedIn</a>
+  </div>
+</div>
+
+<div class="about-main">
+  <h2>Patents</h2>
+
+  <div class="pub-entry">
+    <div class="pub-year">2023</div>
+    <div class="pub-body">
+      <div class="pub-title"><a href="https://patents.google.com/patent/US11593667B2/en">A/B testing using sequential hypothesis</a></div>
+      <div class="pub-meta">M. Lindon &middot; US11593667B2 &middot; Granted Feb 28, 2023</div>
+      <div class="pub-abstract">A method of executing an A/B test includes, during execution of the A/B test, determining, by a processing device using a sequential frequentist test, that a sample ratio mismatch has occurred, wherein the sample ratio mismatch is determined before the A/B test ends the execution. The method further includes, in response to the determining, ending the execution of the A/B test before a previously scheduled end of the A/B test.</div>
+    </div>
+  </div>
+
+  <div class="pub-entry">
+    <div class="pub-year">2023</div>
+    <div class="pub-body">
+      <div class="pub-title"><a href="https://patents.google.com/patent/US11544178B2/en">A/B testing sample ratio mismatch solver</a></div>
+      <div class="pub-meta">M. Lindon &middot; US11544178B2 &middot; Granted Jan 3, 2023</div>
+      <div class="pub-abstract">A method of executing an A/B test includes configuring the A/B test to comprise a first plurality of users in a control group and a second plurality of users in a test group, wherein the first plurality of users and the second plurality of users are to be provided two different versions of a webpage. The method further includes, while the A/B test is executing, determining, by a processing device, that a sample ratio mismatch corresponding to the second plurality of users has occurred, wherein the sample ratio mismatch is determined before the A/B test ends executing. The method further includes, in response to the determining, ending the executing of the A/B test before a previously scheduled end of the A/B test.</div>
+    </div>
+  </div>
+
+</div>
+
+</div>
+```

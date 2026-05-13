@@ -1,0 +1,35 @@
+project:
+  type: website
+  output-dir: _site
+
+website:
+  title: "Michael Lindon"
+  favicon: ""
+  navbar:
+    background: light
+    foreground: dark
+    left:
+      - text: "About"
+        href: index.qmd
+      - text: "Activities"
+        href: activities.qmd
+      - text: "Blog"
+        href: blog.qmd
+      - text: "Publications"
+        href: publications.qmd
+      - text: "Patents"
+        href: patents.qmd
+    right: []
+  page-footer:
+    center: ""
+
+format:
+  html:
+    theme: flatly
+    css: styles.css
+    toc: false
+    page-layout: custom
+    include-in-header:
+      text: |
+        <link rel="preconnect" href="https://fonts.googleapis.com">
+        <link href="https://fonts.googleapis.com/css2?family=Source+Sans+3:wght@300;400;600&display=swap" rel="stylesheet">
