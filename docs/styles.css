@@ -168,6 +168,25 @@ body {
   text-decoration: underline;
 }
 
+.pub-links {
+  margin-left: 8px;
+  font-size: 0.8rem;
+  font-weight: 400;
+}
+
+.pub-links a {
+  color: #0070c0;
+  text-decoration: none;
+  border: 1px solid #0070c0;
+  border-radius: 3px;
+  padding: 1px 5px;
+}
+
+.pub-links a:hover {
+  background: #0070c0;
+  color: #fff;
+}
+
 .pub-meta {
   color: #666;
   font-size: 0.85rem;

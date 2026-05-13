@@ -1,0 +1,32 @@
+---
+title: ""
+---
+
+```{=html}
+<div class="about-layout">
+
+<div class="about-sidebar">
+  <img class="avatar" src="assets/me.jpeg" onerror="this.style.display='none'" alt="Michael Lindon">
+  <h2>Michael Lindon</h2>
+  <p class="role">Staff Research Scientist<br>Netflix</p>
+  <div class="social-links">
+    <a href="https://scholar.google.com/citations?user=-dW0PugAAAAJ">Google Scholar</a>
+    <a href="https://github.com/michaellindon">GitHub</a>
+    <a href="https://linkedin.com/in/michaelslindon">LinkedIn</a>
+  </div>
+</div>
+
+<div class="about-main">
+  <h2>Software</h2>
+
+  <div class="pub-entry">
+    <div class="pub-body">
+      <div class="pub-title"><a href="https://github.com/michaellindon/avlm">avlm</a> <span class="pub-links"><a href="https://cran.r-project.org/web/packages/avlm/index.html">CRAN</a> <a href="https://github.com/michaellindon/avlm">GitHub</a></span></div>
+      <div class="pub-meta">Anytime-valid inference for linear models and ANOVA. Wraps R's <code>lm()</code> and <code>aov()</code> with sequential t-tests, F-tests, and confidence sequences that carry time-uniform type-I error and coverage guarantees — valid regardless of when data collection stops.</div>
+    </div>
+  </div>
+
+</div>
+
+</div>
+```
