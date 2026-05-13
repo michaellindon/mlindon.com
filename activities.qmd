@@ -152,7 +152,7 @@ title: ""
     <div class="pub-body">
       <div class="pub-title"><a href="https://neurips.cc/Conferences/2022">NeurIPS 2022</a></div>
       <div class="pub-meta">New Orleans Ernest N. Morial Convention Center, New Orleans, LA · Nov 28–Dec 9</div>
-      <div class="pub-meta">Talk: <a href="https://arxiv.org/abs/2011.03567"><em>Anytime-Valid Inference for Multinomial Count Data</em></a></div>
+      <div class="pub-meta">Talk: <a href="https://openreview.net/forum?id=a4zg0jiuVi"><em>Anytime-Valid Inference for Multinomial Count Data</em></a></div>
       <div class="pub-meta"><a href="assets/Neurips_Poster.pdf">Poster</a></div>
     </div>
   </div>
@@ -171,7 +171,7 @@ title: ""
     <div class="pub-body">
       <div class="pub-title"><a href="https://kdd.org/kdd2022/">KDD 2022</a></div>
       <div class="pub-meta">Walter E. Washington Convention Center, Washington, DC · Aug 14–18</div>
-      <div class="pub-meta">Talk: <a href="https://arxiv.org/abs/2205.14762"><em>Rapid Regression Detection in Software Deployments through Sequential Testing</em></a></div>
+      <div class="pub-meta">Talk: <a href="https://dl.acm.org/doi/10.1145/3534678.3539099"><em>Rapid Regression Detection in Software Deployments through Sequential Testing</em></a></div>
       <div class="pub-meta"><a href="assets/kdd_2022_poster.pdf">Poster</a></div>
     </div>
   </div>

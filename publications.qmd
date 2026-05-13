@@ -78,7 +78,7 @@ title: ""
   <div class="pub-entry">
     <div class="pub-year">2022</div>
     <div class="pub-body">
-      <div class="pub-title"><a href="https://arxiv.org/abs/2205.14762">Rapid regression detection in software deployments through sequential testing</a></div>
+      <div class="pub-title"><a href="https://dl.acm.org/doi/10.1145/3534678.3539099">Rapid regression detection in software deployments through sequential testing</a></div>
       <div class="pub-meta">M. Lindon, C. Sanden, V. Shirikian &middot; <em>KDD 2022</em> <span class="tag tag-conf">Conference</span></div>
     </div>
   </div>
@@ -86,7 +86,7 @@ title: ""
   <div class="pub-entry">
     <div class="pub-year">2022</div>
     <div class="pub-body">
-      <div class="pub-title"><a href="https://arxiv.org/abs/2011.03567">Anytime-valid inference for multinomial count data</a></div>
+      <div class="pub-title"><a href="https://openreview.net/forum?id=a4zg0jiuVi">Anytime-valid inference for multinomial count data</a></div>
       <div class="pub-meta">M. Lindon, A. Malek &middot; <em>NeurIPS 2022</em> <span class="tag tag-conf">Conference</span></div>
     </div>
   </div>
